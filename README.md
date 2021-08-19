@@ -1,4 +1,4 @@
-# Sum-of-First-10-Natural-Numbers
+# Sum-of-First-10-Natural-Numbers-In-Python
 Here I will find out the sum of first 10 natural numbers using :- For Loop , While Loop , Recursion &amp; List Comprehension
 
 So Please Follow These Programs To improve your skills.
