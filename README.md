@@ -5,4 +5,4 @@ So Please Follow These Programs To improve your skills.
 Many People Have Problem With For Loop And While Loop And Also with recursion.
 
 So I have explained each and every program here.They were written below in the programs.
-Follow Those Explainations
+Follow Those Explanations
